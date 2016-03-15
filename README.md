@@ -1,8 +1,13 @@
 # helloWorld
 Learning with HelloWorld Tutorial
 
-# this is the First Section
+# 1- Introduction
 And some text in here.
 
-# Another Section
-we are now editing in a seprate branch.
+# 2- How to use
+Just compile  and run. It works on my machine....
+
+# 3- Another Section
+	This is the section added from the readme-edits branch.
+	We have now merged this addition back into master.
+
